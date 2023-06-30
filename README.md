@@ -1,6 +1,6 @@
 <p align="center" ><img alt="Kiny-Painel" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"></p>
 
-<h1 align="center">Kiny-Painel (BETA)</h1>
+<h1 align="center">Painel-Consulta (BETA)</h1>
 <p align="center">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Kiny-Kiny/Kiny-Painel">
   <img alt="Latest version" src="https://img.shields.io/github/v/release/Kiny-Kiny/Kiny-Painel.svg" alt="Latest version">
@@ -33,7 +33,7 @@ Os que não estão, é porque ainda estão em desenvolvimento.
 
 Estamos sempre atualizando a ferramenta. Por conta disso, as vezes consultas podem ficar **offline** temporariamente. 
 Iremos avisar aqui quando cada ferramentas for atualizada!
-Para você executar o **Kiny-Painel** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
+Para você executar o **Painel** é nescessario ter o python instalado e para isso você pode baixar no site oficial do python clicando [**Aqui!**](https://www.python.org/downloads/)
 
 Depois de baixar e instalar o python você pode baixar o **Painel** diretamente do github com os seguintes comandos:
 
@@ -64,11 +64,6 @@ $ git clone https://github.com/Kiny-Kiny/Kiny-Painel
 $ cd Kiny-Painel
 $ python3 main.py
 ```
-
-<p align="center" >
-  <h2 align="center">🚀 Running</h2>
-  <img alt="Kiny-Painel" src="https://github.com/Kiny-Kiny/Kiny-Painel/blob/main/IMG_20210815_155210_616.jpg">
-</p>
 
 <div align="center">
   <h2>👤 Perfil:</h2>
