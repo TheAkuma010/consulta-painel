@@ -81,34 +81,12 @@ $ python3 main.py
   <img alt="Kiny-Painel" src="https://github.com/Kiny-Kiny/Kiny-Painel/blob/main/IMG_20210815_155210_616.jpg">
 </p>
 
-<p align="center" >
-  <h2 align="center">📧 Groups</h2>
-<a href="https://chat.whatsapp.com/Dnjs8guT97wAJgcZSI6e3c" alt="WhatsApp">
-  <img src = "https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" /> </a>
-
-<a href="http://t.me/kinycrimson" alt="Telegram">
-  <img src = "https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/kinycrimson" /> </a>
-
-<h2 align="center">🙏  Credits</h2>
-
-| Autor          | Ajuda                                                                  |
-| -------------- |:-------------:                                                         |
-| Gav1x          | Api's                                                                  |
-| P0isonBR       | Consulta de CPF/Atualização Automática                                 |
-| Snuking        | Algumas ajudas no próprio script                                       |
-| Douglas/Josuke | Patrocinador                                                           |
-| Margarina      | Patrocinador                                                           |
-| N 3 X 0        | Patrocinador/Consulta de CPF                                           |
-| Yato           | Antigo Recode                                                          |
-| Peticali       | Ajudas no próprio script                                               |
-| Johann Krebs   | Criptografia, obfuscação, APIs, suporte, bugfixing e testes            |
-
 <div align="center">
-  <h2>👤 Perfis:</h2>
+  <h2>👤 Perfil:</h2>
 
   <table>
     <tr>
-      <td align="center"><a href="https://github.com/TheAkuma010"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/70079144?s=60&v=4" width="100px;" alt=""/><br /><sub><b>@Kiny</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/TheAkuma010"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/135660800?v=4" width="100px;" alt=""/><br /><sub><b>@TheAkuma010</b></sub></a><br /></td>
   </table>
 </div>
  ```
